@@ -1,0 +1,81 @@
+---
+layout: post
+title:
+  "Tram-treno: Spostamento del tracciato per allungare l’aeroporto di Agno?"
+excerpt:
+  Secondo RailValley la tecnologia Parallel System che si sta sviluppando negli
+  USA da ingegneri provenienti da SpaceX, azienda fondata da Elon Musk, merita
+  una seria considerazione anche in Europa.
+date: 2019-08-09 12:42:00 +0100
+author: Domenico
+categories: italiano
+---
+
+# Tram-treno: Spostamento del tracciato per allungare l’aeroporto di Agno?
+
+Comunicato stampa: 9 agosto 2019 - Tram-treno del Luganese
+
+Il Municipio di Lugano, nel
+[messaggio 10291 del 23 maggio 2019](http://cc.lugano.ch/.servlet/lugano-site-cc/downloadWs?name=Messaggio_10291.pdf&unid=40FD3BC0E0BC8DEEC1258403004A010E&type=messaggi)
+sul rilancio di Lugano Airport, indica come potenziali di sviluppo la
+possibilità di allungare la pista dell’aeroporto grazie allo spostamento del
+tracciato del tram-treno.
+
+Vedi pag. 5 del messaggio 10291:
+
+> 2.3 Potenziali di sviluppo/aree di intervento
+>
+> ...
+>
+> - allungamento della pista, in particolare a nord, grazie allo spostamento del
+>   tracciato del tram-treno, così da consentire in futuro l’uso dello scalo ai
+>   nuovi modelli di velivoli, più performanti sotto l’aspetto ambientale e più
+>   adatti al futuro traffico regionale, così da creare per le compagnie
+>   interessanti economie di scala
+
+Nel progetto del tram-treno nella zona di Bioggio, il tracciato viene spostato a
+nord di ca 300 m da Bioggio-Molinazzo a Cavezzolo. Come spiegato nel nostro
+dossier
+“[Tram-Treno del Luganese](http://railvalley.org/sites/railvalley.org/files/RailValley_DossierTramTreno_20170202.pdf)”,
+del febbraio 2018, nel capitolo 4.1. (vedi allegato) lo spostamento del
+tracciato non è funzionale alla ferrovia, si tratta di un finanziamento
+traversale (o occulto) a spese del tram-treno per favorire l’aeroporto.
+
+**In poche parole si tratta di un investimento inutile in un’opera ferroviaria,
+per favorire il trasporto aereo.**
+
+Nel piano strategico presentato dal Municipio di Lugano l’allungamento della
+pista verso nord è considerato come un elemento centrale per il rilancio
+dell’aeroporto. Senza infatti non potrebbero volare gli arei più grandi. Prima
+del messaggio non c’era mai stata una conferma ufficiale che l’allungamento
+verso nord della pista fosse il motivo principale dello spostamento del
+tracciato del tram-treno, anzi le autorità erano state vaghe al riguardo,
+cercando di far credere che la soluzione proposta la migliore tecnicamente.
+
+Il Municipio spera che l’allungamento della pista possa permettere a nuovi
+modelli di aerei ulteriori economie di scala. Dal 2020 però, con la messa in
+servizio della galleria di base del Ceneri, da Lugano si potrà arrivare
+all’aeroporto di Zurigo in circa 2 ore con il treno. Per questo motivo Swiss sta
+mettendo in discussione il volo di linea tra Lugano e Zurigo: si pensa a
+l’inclusione nel biglietto aereo del tragitto in treno.
+
+Questo spostamento è deleterio dal punto di vista dell’operatività del
+tram-treno, dal punto di vista finanziario e soprattutto in un momento dove si
+cerca di diminuire l’impatto ambientale per i motivi che sono riconosciuti da
+(quasi) tutti.
+
+![Tram-treno varianti](/images/bioggio-tram-treno-varianti.png)
+
+## Svantaggi dello spostamento del tracciato verso nord
+
+- Aumento dei costi dell’opera nell’ordine di ca. 30 milioni (importo da
+  precisare).
+- Non è più possibile mantenere la linea Bioggio-Muzzano-Lugano.
+- La nuova linea del tram, spostata in prossimità della rotonda di Bioggio,
+  entra in conflitto con la strada cantonale e il comparto industriale (causa di
+  molti ricorsi).
+- Necessità di avere un viadotto molto lungo sul piano.
+- Per mettere in funzione il tram fra Bioggio e Manno bisogna attendere il
+  completamento della galleria verso Lugano. Ciò causa un ritardo della messa in
+  funzione di circa 5 anni.
+- Grande spreco di territorio a Bioggio.
