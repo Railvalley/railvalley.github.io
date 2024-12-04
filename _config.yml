@@ -9,3 +9,8 @@ github_username: railvalley
 
 theme: minima
 show_excerpts: true
+
+header_pages:
+  - pages.md
+  - blog.md
+  - about.md
