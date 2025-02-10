@@ -14,3 +14,9 @@ header_pages:
   - pages.md
   - blog.md
   - about.md
+
+langs:
+  de: Deutsch
+  en: English
+  fr: Français
+  it: Italiano
