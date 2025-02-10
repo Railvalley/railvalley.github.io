@@ -28,6 +28,8 @@ dimenticata, soprattutto nel campo del trasporto merci su ferrovia. Railvalley
 promuove rimedi efficienti a questa situazione di stallo, basandosi su
 technologie innovative ed ecologiche.
 
+[Documento pdf con la presentazione di RailValley e dei principali progetti](/files/RailValley%20presentazione%20I%20v%5F27gen11.pdf).
+
 ## Innovazione ferroviaria
 
 Il trasporto merci ferroviario deve essere rinnovato per essere efficiente,
@@ -64,3 +66,89 @@ L'associazione intende conseguire il suo scopo impegnandosi in particolare a
   trasporti collegati
 - Organizzare convegni e gruppi di lavoro
 - Informare
+
+## Statuti
+
+Potete trovare gli statuti di RailValley su [questa pagina](/statuti).
+
+## Comitato
+
+Presidente: Stefan Krebser - Sessa (Esperto di Trasporti) -
+stefankrebser(at)bluewin.ch
+
+Vice presidente: Lic. iur. HSG Domenico Zucchetti - Massagno -
+domenico(at)banana.ch
+
+Cassiere: Lorenzo Castellari - Pazzallo
+
+Membro: Rolf Kaufmann - Sessa
+
+## Consiglio cosultivo
+
+Consiglio consultivo (art. 12 degli statuti)
+
+Fa parte del Consiglio consultivo ogni politico o personalità pubblica che
+condivide e promuove lo scopo dell'associazione. Il Consiglio consultivo ha come
+scopo quello di sostenerne l'attività dell'associazione a livello politico ed
+imprenditoriale e di consigliare il Comitato e l'Ufficio presidenziale. Il
+Comitato tiene a giorno l'elenco dei membri del Consiglio Consultivo.
+
+Membri attuali
+
+- Aleardo Cattaneo, Ferriere Cattaneo SA
+- Rocco Cattaneo, amministratore delegato [STISA](http://www.stisa.ch/)
+  (Sviluppo Traffici Internazionali SA)
+- Bastien Girod, Consigliere nazionale, I Verdi
+- [Filippo Lombardi](http://www.filippolombardi.ch/), Consigliere agli Stati,
+  PPD, membro della Commissione CTT (Commissione trasporti e telecomunicazione)
+- Philipp Müller, lic.rer.pol., delegato del CdA WASCOSA
+- Herbert Ruile, Prof.Dr., Fachhochschule Nordwestschweiz FHNW, presidente VNL
+  ([Verein Netzwerk Logistik](http://www.vnl.ch/))
+- David Simoneta, Ing. mecc. FH, presidente
+  [sezione Transfair FFS sud](http://www.transfair.ch/nc/it/home.html)
+- Jost Wichser, scienziato e docente ETH, IVT (Institut für Verkehrsplanung und
+  Transportsysteme)
+
+[Vi preghiamo di contattarci ](mailto:info@railvalley.org)direttamente per la
+vostra adesione.
+
+## Aderire a RailValley
+
+Qualsiasi persona, impresa, scuola superiore o istituto di ricerca può fare
+parte dell'associazione.
+
+Per iscrivervi all'associazione si prega di indicare, tramite
+[email](mailto:info@railvalley.org), i vostri dati (indirizzo, numero di
+telefono, ecc...), indicando se:
+
+- si desidera avere un ruolo attivo nella RailValley
+- si desidera far parte dell' associazione senza impegni
+- si desidera far parte del consiglio consultivo
+
+Sarete contattati al più presto e riceverete la documentazione e la polizza di
+versamento per il pagamento della quota annuale.
+
+Per ulteriori informazioni, chiarimenti o altro vi preghiamo di contattarci
+personalmente.
+
+Quote annuali per membri dell'associazione in qualità di:
+
+- impresa Fr. 2'000.-- /anno
+- istituto di ricerca Fr. 2'000.-- /anno
+- persona privata Fr. 100.- / anno
+- studente Fr. 50.- / anno
+- associazioni gratis
+
+## Contatto
+
+**RailValley**\
+c/o Stefan Krebser\
+Lanera\
+CH-6997 Sessa
+
+Telefono: +41 91 608 25 88\
+Mobile: +41 79 240 49 58
+
+Conto corrente Postfinance: IBAN CH78 0900 0000 6515 8925 8
+
+E-mail: [info@railvalley.org](mailto:info@railvalley.org)

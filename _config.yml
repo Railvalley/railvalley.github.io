@@ -11,7 +11,8 @@ theme: minima
 show_excerpts: true
 
 header_pages:
-  - pages.md
+  - indice.md
+  - deutsch.md
   - blog.md
   - about.md
 
