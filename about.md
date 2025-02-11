@@ -30,6 +30,8 @@ technologie innovative ed ecologiche.
 
 [Documento pdf con la presentazione di RailValley e dei principali progetti](/files/RailValley%20presentazione%20I%20v%5F27gen11.pdf).
 
+<hr />
+
 ## Innovazione ferroviaria
 
 Il trasporto merci ferroviario deve essere rinnovato per essere efficiente,
@@ -43,6 +45,8 @@ L'innovazione è l'unica prospettiva per le ferrovie
 - Rendere redditizie le ferrovie
 - Creare posti di lavoro duraturi nel settore ferroviario
 - Dare vantaggi competitivi ai trasportatori svizzeri
+
+<hr />
 
 ## Scopo dell'associazione
 
@@ -67,9 +71,13 @@ L'associazione intende conseguire il suo scopo impegnandosi in particolare a
 - Organizzare convegni e gruppi di lavoro
 - Informare
 
+<hr />
+
 ## Statuti
 
 Potete trovare gli statuti di RailValley su [questa pagina](/statuti).
+
+<hr />
 
 ## Comitato
 
@@ -82,6 +90,8 @@ domenico(at)banana.ch
 Cassiere: Lorenzo Castellari - Pazzallo
 
 Membro: Rolf Kaufmann - Sessa
+
+<hr />
 
 ## Consiglio cosultivo
 
@@ -112,6 +122,8 @@ Membri attuali
 [Vi preghiamo di contattarci ](mailto:info@railvalley.org)direttamente per la
 vostra adesione.
 
+<hr />
+
 ## Aderire a RailValley
 
 Qualsiasi persona, impresa, scuola superiore o istituto di ricerca può fare
@@ -138,6 +150,8 @@ Quote annuali per membri dell'associazione in qualità di:
 - persona privata Fr. 100.- / anno
 - studente Fr. 50.- / anno
 - associazioni gratis
+
+<hr />
 
 ## Contatto
 
