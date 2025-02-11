@@ -14,10 +14,10 @@ layout: default
       -%}
       <div class="post-meta">
         <span>{{ post.date | date: date_format }}</span>
-        {%- if site.langs[post.lang] -%}
-        <span>&nbsp;• {{ site.langs[post.lang] }}</span>
-        {%- endif -%} {%- if post.author -%}
+        {%- if post.author -%}
         <span>&nbsp;• {{ post.author }}</span>
+        {%- endif -%} {%- if site.langs[post.lang] -%}
+        <span>&nbsp;• {{ site.langs[post.lang] }}</span>
         {%- endif -%}
       </div>
       <h3>
