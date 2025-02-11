@@ -82,12 +82,12 @@ c) approvare il preventivo\
 d) nominare il presidente dell'associazione ed il vice-presidente che comporranno
 l'Ufficio presidenziale\
 e) nominare i membri del Comitato\
-g) nominare il cassiere\
-h) nominare i revisori\
-i) nominare i soci onorari\
-m) modificare gli statuti\
-n) fissare la quota sociale\
-o) decidere lo scioglimento dell'associazione e la devoluzione del patrimonio
+f) nominare il cassiere\
+g) nominare i revisori\
+h) nominare i soci onorari\
+i) modificare gli statuti\
+j) fissare la quota sociale\
+k) decidere lo scioglimento dell'associazione e la devoluzione del patrimonio
 sociale
 
 Le proposte per eventuali candidature e modifiche statutarie devono essere
@@ -114,7 +114,7 @@ c) sbrigare i lavori correnti\
 d) eseguire le decisioni prese dall'assemblea\
 e) assicurare la supervisione sull'attività del segretariato (i cui compiti sono
 definiti in un regolamento interno)\
-e) assicurare la supervisione sulla gestione finanziaria dell'associazione\
+f) assicurare la supervisione sulla gestione finanziaria dell'associazione\
 
 **Ufficio presidenziale - art. 9**
 
