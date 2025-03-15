@@ -89,7 +89,6 @@ domenico(at)banana.ch
 
 Cassiere: Lorenzo Castellari - Pazzallo
 
-Membro: Rolf Kaufmann - Sessa
 
 <hr />
 
@@ -109,8 +108,7 @@ Membri attuali
 - Rocco Cattaneo, amministratore delegato [STISA](http://www.stisa.ch/)
   (Sviluppo Traffici Internazionali SA)
 - Bastien Girod, Consigliere nazionale, I Verdi
-- [Filippo Lombardi](http://www.filippolombardi.ch/), Consigliere agli Stati,
-  PPD, membro della Commissione CTT (Commissione trasporti e telecomunicazione)
+- [Filippo Lombardi](http://www.filippolombardi.ch/), Municipale Lugano
 - Philipp Müller, lic.rer.pol., delegato del CdA WASCOSA
 - Herbert Ruile, Prof.Dr., Fachhochschule Nordwestschweiz FHNW, presidente VNL
   ([Verein Netzwerk Logistik](http://www.vnl.ch/))
@@ -118,9 +116,6 @@ Membri attuali
   [sezione Transfair FFS sud](http://www.transfair.ch/nc/it/home.html)
 - Jost Wichser, scienziato e docente ETH, IVT (Institut für Verkehrsplanung und
   Transportsysteme)
-
-[Vi preghiamo di contattarci ](mailto:info@railvalley.org)direttamente per la
-vostra adesione.
 
 <hr />
 
@@ -130,7 +125,7 @@ Qualsiasi persona, impresa, scuola superiore o istituto di ricerca può fare
 parte dell'associazione.
 
 Per iscrivervi all'associazione si prega di indicare, tramite
-[email](mailto:info@railvalley.org), i vostri dati (indirizzo, numero di
+email i vostri dati (indirizzo, numero di
 telefono, ecc...), indicando se:
 
 - si desidera avere un ruolo attivo nella RailValley
@@ -157,7 +152,7 @@ Quote annuali per membri dell'associazione in qualità di:
 
 **RailValley**\
 c/o Stefan Krebser\
-Lanera\
+Via Astano 20\
 CH-6997 Sessa
 
 Telefono: +41 91 608 25 88\
@@ -165,4 +160,4 @@ Mobile: +41 79 240 49 58
 
 Conto corrente Postfinance: IBAN CH78 0900 0000 6515 8925 8
 
-E-mail: [info@railvalley.org](mailto:info@railvalley.org)
+E-mail contatto: stefankrebser@bluewin.ch
