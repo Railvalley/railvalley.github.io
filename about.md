@@ -104,18 +104,16 @@ Comitato tiene a giorno l'elenco dei membri del Consiglio Consultivo.
 
 Membri attuali
 
-- Aleardo Cattaneo, Ferriere Cattaneo SA
 - Rocco Cattaneo, amministratore delegato [STISA](http://www.stisa.ch/)
   (Sviluppo Traffici Internazionali SA)
-- Bastien Girod, Consigliere nazionale, I Verdi
+- Bastien Girod, ex-Consigliere nazionale, I Verdi
 - [Filippo Lombardi](http://www.filippolombardi.ch/), Municipale Lugano
 - Philipp Müller, lic.rer.pol., delegato del CdA WASCOSA
 - Herbert Ruile, Prof.Dr., Fachhochschule Nordwestschweiz FHNW, presidente VNL
-  ([Verein Netzwerk Logistik](http://www.vnl.ch/))
+  [Verein Netzwerk Logistik](http://www.vnl.ch/)
 - David Simoneta, Ing. mecc. FH, presidente
   [sezione Transfair FFS sud](http://www.transfair.ch/nc/it/home.html)
-- Jost Wichser, scienziato e docente ETH, IVT (Institut für Verkehrsplanung und
-  Transportsysteme)
+
 
 <hr />
 
