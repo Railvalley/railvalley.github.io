@@ -10,7 +10,7 @@ permalink: deutsch
 Schienengütertransport
 
 - Strategiepapier:
-  [Konkurrenzfähiger Schienengütertransport auf Mittel-­‐ und Kurzstrecken](/files/strategie%5Fkurzstrecken-10-10-2013.pdf)
+  [Konkurrenzfähiger Schienengütertransport auf Mittel-­‐ und Kurzstrecken](/files/strategie_kurzstrecken-10-10-2013.pdf)
   (Oktober 2013
 
 ## PAL2: Programm zur Agglomerationsentwicklung Lugano
@@ -19,7 +19,7 @@ Schienengütertransport
 
 ## RailValley
 
-- [Präsentation RailValley:](/files/Ok%5FRailValley%5FDeutch%5F27.08.2011.pdf)
+- [Präsentation RailValley:](/files/Ok_RailValley_Deutch_27.08.2011.pdf)
   unsere Themen, unsere Ziele.
 
 ## RailValley: unsere Lösungsvorschläge
@@ -27,16 +27,16 @@ Schienengütertransport
 - [Konzeptpapier Güterpendelzüge](/files/Cargo-Pendelzug.pdf)
 - Pilotprojekt Schienengütertransport auf der Gotthardachse
   - [Verlagerungsstudie (italienisch)](/files/Progetto%20di%20trasferimento%20S.%20Gottardo.pdf)
-  - [Brief RailValley an SBB-Chef Meyer (italienisch)](/files/railvalley%5Flettera%5FFFS%5Fdir%5FMayer.pdf)
-  - [Antwort der SBB an RailValley (deutsch)](/files/sbb%5Fbriefe%5Fmeyer%5F31-8-2012.pdf)
+  - [Brief RailValley an SBB-Chef Meyer (italienisch)](/files/railvalley_lettera_FFS_dir_Mayer.pdf)
+  - [Antwort der SBB an RailValley (deutsch)](/files/sbb_briefe_meyer_31-8-2012.pdf)
 - Erhaltung der bestehenden Gotthardlinie
-- [Ausdehnung des Schmalspurnetzes](/files/railvalley%5Fschmalspurnetz.pdf)
+- [Ausdehnung des Schmalspurnetzes](/files/railvalley_schmalspurnetz.pdf)
 - Gütertransport auf dem Schmalspurnetz
 - Projekt Bahnhof Lugano: La terrazza sul lago
   - Projektbeschrieb deutsch:
     [Stellungnahme zu PAL2, Punkt 5](/files/RailValley-ARE-PAL2-Stellungnahme.pdf)
   - Projektbeschrieb italienisch:
-    [Indoor Sportzentrum Massagno](/files/centro%5Fsportivo%5Findoor%5Fstazione.pdf)
+    [Indoor Sportzentrum Massagno](/files/centro_sportivo_indoor_stazione.pdf)
 - [Zusammenarbeit zur Planung und Koordination von Innovationen im Schienengüterverkehr](/files/Technopark%20f%C3%BCr%20Eisenbahninnovation.pdf)
 
 <hr />
@@ -51,10 +51,10 @@ Schienengütertransport
   (01.02.2016)
 - [Neuer Bericht des ASTRA - Neues Konzept - Zweite Röhre nicht notwendig](/files/RailValley-BerichtAstra-keine2-.R%C3%B6hre-24-11-2015.pdf)
   (24.11.2015)
-- [Sanierung des Gotthard- Strassentunnels unter Berücksichtigung der Energiestrategie 2050 des Bundesrates (](/files/RailValley-Sanierung-Gotthard-2050%5F05-03-2014.pdf)5.3.2014)
+- [Sanierung des Gotthard- Strassentunnels unter Berücksichtigung der Energiestrategie 2050 des Bundesrates (](/files/RailValley-Sanierung-Gotthard-2050_05-03-2014.pdf)5.3.2014)
   - [ZUSAMMENFASSUNG DEUTSCH](/files/Sanierung Gotthardstrassentunnel
-    deutsch%5F0.pdf)
-  - [ZUM DOKUMENT (italienisch)](/files/RailValley-risanamento%20galleria%20gottardo-gennaio%5F2013.pdf)
+    deutsch_0.pdf)
+  - [ZUM DOKUMENT (italienisch)](/files/RailValley-risanamento%20galleria%20gottardo-gennaio_2013.pdf)
 
 <hr />
 
@@ -63,19 +63,19 @@ Schienengütertransport
 Stefan Krebser, Präsident RailValley
 
 - [Sanierung\_Gotthardstrassentunnel\_deutsch.pdf](/files/Sanierung
-  Gotthardstrassentunnel deutsch%5F0.pdf)
+  Gotthardstrassentunnel deutsch_0.pdf)
 - [Cargo-Pendelzug.pdf](/files/Cargo-Pendelzug.pdf)
-- [Ok_RailValley_Deutch_27.08.2011.pdf](/files/Ok%5FRailValley%5FDeutch%5F27.08.2011.pdf)
+- [Ok_RailValley_Deutch_27.08.2011.pdf](/files/Ok_RailValley_Deutch_27.08.2011.pdf)
 - [Pilotprojekt Gotthard.pdf](/files/Pilotprojekt Gotthard.pdf)
 - [Technopark für Eisenbahninnovation.pdf](/files/Technopark für
   Eisenbahninnovation.pdf)
-- [Brief_Leuthard_14-3-2012.pdf](/files/Brief%5FLeuthard%5F14-3-2012.pdf)
-- [sbb_briefe_meyer_31-8-2012.pdf](/files/sbb%5Fbriefe%5Fmeyer%5F31-8-2012.pdf)
-- [railvalley_schmalspurnetz.pdf](/files/railvalley%5Fschmalspurnetz.pdf)
+- [Brief_Leuthard_14-3-2012.pdf](/files/Brief_Leuthard_14-3-2012.pdf)
+- [sbb_briefe_meyer_31-8-2012.pdf](/files/sbb_briefe_meyer_31-8-2012.pdf)
+- [railvalley_schmalspurnetz.pdf](/files/railvalley_schmalspurnetz.pdf)
 - [RailValley-ARE-PAL2-Brief.pdf](/files/RailValley-ARE-PAL2-Brief.pdf)
 - [RailValley-ARE-PAL2-Stellungnahme.pdf](/files/RailValley-ARE-PAL2-Stellungnahme.pdf)
-- [strategie_kurzstrecken-10-10-2013.pdf](/files/strategie%5Fkurzstrecken-10-10-2013.pdf)
-- [RailValley-Sanierung-Gotthard-2050_05-03-2014.pdf](/files/RailValley-Sanierung-Gotthard-2050%5F05-03-2014.pdf)
+- [strategie_kurzstrecken-10-10-2013.pdf](/files/strategie_kurzstrecken-10-10-2013.pdf)
+- [RailValley-Sanierung-Gotthard-2050_05-03-2014.pdf](/files/RailValley-Sanierung-Gotthard-2050_05-03-2014.pdf)
 
 <hr />
 

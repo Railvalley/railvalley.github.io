@@ -54,13 +54,13 @@ del S. Gottardo"
 ## Confederazione svizzera (Parlamento federale)
 
 Marzo 2009 - Mozione
-"[Investitionsanreize für Güter-Shuttlezüge](http://www.parlament.ch/D/Suche/Seiten/geschaefte.aspx?gesch%5Fid=20093130)"
+"[Investitionsanreize für Güter-Shuttlezüge](http://www.parlament.ch/D/Suche/Seiten/geschaefte.aspx?gesch_id=20093130)"
 
 Marzo 2009 - Interpellanza
-"[Verlagerung Binnengüterverkehr](http://www.parlament.ch/D/Suche/Seiten/geschaefte.aspx?gesch%5Fid=20093177)"
+"[Verlagerung Binnengüterverkehr](http://www.parlament.ch/D/Suche/Seiten/geschaefte.aspx?gesch_id=20093177)"
 
 Marzo 2009 - Interpellanza
-"[Kapazitätserhöhung durch ETCS Level 3 und Güter-Shuttlezügen mit 120 km/h Fahrgeschwindigkeit](http://www.parlament.ch/D/Suche/Seiten/geschaefte.aspx?gesch%5Fid=20093081)"
+"[Kapazitätserhöhung durch ETCS Level 3 und Güter-Shuttlezügen mit 120 km/h Fahrgeschwindigkeit](http://www.parlament.ch/D/Suche/Seiten/geschaefte.aspx?gesch_id=20093081)"
 
 Settembre 2009 - Mozione "Zukunftsfähiger Schienengüterverkehr"
 
@@ -238,45 +238,45 @@ normale che di treni turistici, regionali e merci su scartamento ridotto.
     (19 giugno 2018)
   - [Audizione Commissione della Gestione](/blog/2018/05/30/105) (29
     maggio 2018)
-    [Dossier Tram-Treno del Luganese](/files/tram-treno/RailValley%5FDossierTramTreno%5F20170202.pdf)
+    [Dossier Tram-Treno del Luganese](/files/tram-treno/RailValley_DossierTramTreno_20170202.pdf)
     Analisi del progetto pubblicato dal Dipartimento del Territorio, con spunti
     di ottimizzazione. (2 febbraio 2018)
-  - [Polo congressuale e turistico alla stazione di Lugano e assetto viario della stazione FFS. ](/files/Consultazione-StazLug%5F20170522%5F0.pdf)
+  - [Polo congressuale e turistico alla stazione di Lugano e assetto viario della stazione FFS. ](/files/Consultazione-StazLug_20170522_0.pdf)
     Osservazioni presentati nell'ambito della consultazione sulle varianti PR
     intercomunale della Trincea ferroviaria di Massagno e del comparto della
     stazione FFS Lugano (22 maggio 2017)
-  - [Comunicato: Alptransit completamento fino a Melide.](/files/CompletamentoAlptransitSud%5F20170524.pdf)
+  - [Comunicato: Alptransit completamento fino a Melide.](/files/CompletamentoAlptransitSud_20170524.pdf)
     RailValley sollecita la messa in cantiere della tratta Alptransit Vezia -
     Melide (22 maggio 2017)
 - Documenti strategici
-  - [Sviluppo delle infrastrutture ferroviarie al Sud delle Alpi](/files/ferrovie%5Fsuddellealpi%5F24%5F03%5F2014.pdf)[ ](/files/ferrovie%5Fsuddellealpi%5F31%5F01%5F2014.pdf)(24.3.2014)
+  - [Sviluppo delle infrastrutture ferroviarie al Sud delle Alpi](/files/ferrovie_suddellealpi_24_03_2014.pdf)[ ](/files/ferrovie_suddellealpi_31_01_2014.pdf)(24.3.2014)
     La visione di RailValley per lo sviluppo delle infrastrutture ferroviarie al
     sud delle Alpi, con incluso un riepilogo delle diverse tratte in fase di
     realizzazione e quelle in studio.
   - Documento strategico
-    [Per una ferrovia competitiva nel trasporto di merci sulle corte distanze.](/files/strategia%5Fcorte%5Fdistanze-13-08-2013.pdf)(Agosto 2013)
+    [Per una ferrovia competitiva nel trasporto di merci sulle corte distanze.](/files/strategia_corte_distanze-13-08-2013.pdf)(Agosto 2013)
   - Strategiepapier:
-    [Konkurrenzfähiger Schienengütertransport auf Mittel-­‐ und Kurzstrecken](/files/strategie%5Fkurzstrecken-10-10-2013.pdf)
+    [Konkurrenzfähiger Schienengütertransport auf Mittel-­‐ und Kurzstrecken](/files/strategie_kurzstrecken-10-10-2013.pdf)
     (Oktober 2013)
 
 ## RailValley
 
-- [Presentazione di RailValley](/files/RailValley%20presentazione%20I%20v%5F27gen11.pdf)
+- [Presentazione di RailValley](/files/RailValley%20presentazione%20I%20v_27gen11.pdf)
   Documento pdf con la presentazione di RailValley e dei vari progetti su cui si
   sta lavorando.
 
 ## Trasporto di merci
 
 - Documento strategico
-  [Per una ferrovia competitiva nel trasporto di merci sulle corte distanze.](/files/strategia%5Fcorte%5Fdistanze-13-08-2013.pdf)
+  [Per una ferrovia competitiva nel trasporto di merci sulle corte distanze.](/files/strategia_corte_distanze-13-08-2013.pdf)
 - Studio di massima
-  "[Trasferimento del trasporto merci sull'asse nord-sud con l'applicazione di componenti innovativi](/files/railvalley%5Fstudio%5Fnord%5Fsud%5F04052012.pdf)".
-  - [Lettera RailValley/Stisa alla direzione FFS](/files/railvalley%5Flettera%5FFFS%5Fdir%5FMayer.pdf)
-  - [Risposta 31-8-2012 CEO FFS Adreas Mayer(](/files/sbb%5Fbriefe%5Fmeyer%5F31-8-2012.pdf)[traduzione in italiano](/files/traduzione%5Fitaliano%5Flettera%5Fffs%5F31-8-2012.pdf))
+  "[Trasferimento del trasporto merci sull'asse nord-sud con l'applicazione di componenti innovativi](/files/railvalley_studio_nord_sud_04052012.pdf)".
+  - [Lettera RailValley/Stisa alla direzione FFS](/files/railvalley_lettera_FFS_dir_Mayer.pdf)
+  - [Risposta 31-8-2012 CEO FFS Adreas Mayer(](/files/sbb_briefe_meyer_31-8-2012.pdf)[traduzione in italiano](/files/traduzione_italiano_lettera_ffs_31-8-2012.pdf))
 - [Progetto di trasferimento S. Gottardo](/files/Progetto%20di%20trasferimento%20S.%20Gottardo.pdf)
   Documento pdf, che spiega il progetto per l'introduzione di treni pendolari
   merce sull'asse Nord/Sud.
-- [Lettera alla Consigliera federale Leuthard](/files/lettera%5Fleuthard%5F13-3-2012.pdf)
+- [Lettera alla Consigliera federale Leuthard](/files/lettera_leuthard_13-3-2012.pdf)
   Il rinvio a dopo il 2035 del risanamento completo della galleria autostradale
   del San Gottardo è l'opzione che si impone se si considera il progresso
   tecnologico
@@ -292,9 +292,9 @@ normale che di treni turistici, regionali e merci su scartamento ridotto.
 - RailValley ha rivalutato la situazione della mobilità del Luganese in base ai
   diversi mutamenti e ha presentato delle brevi osservazioni sotto forma di
   brevi comunicati (22 maggio 2017)
-  - [Osservazioni concernenti la consultazione pubblica sulle varianti PR intercomunale della Trincea ferroviaria di Massagno e del comparto della stazione FFS Lugano](/files/Consultazione-StazLug%5F20170522%5F0.pdf).
-  - [Comunicato: Mobilità del Vedeggio](/files/Comunicato%5Fvedeggio%5F20170522%5F0.pdf).
-  - [Comunicato: Alptransit completamento fino a Melide.](/files/CompletamentoAlptransitSud%5F20170522.pdf)
+  - [Osservazioni concernenti la consultazione pubblica sulle varianti PR intercomunale della Trincea ferroviaria di Massagno e del comparto della stazione FFS Lugano](/files/Consultazione-StazLug_20170522_0.pdf).
+  - [Comunicato: Mobilità del Vedeggio](/files/tram-treno/Comunicato_vedeggio_20170522_0.pdf).
+  - [Comunicato: Alptransit completamento fino a Melide.](/files/CompletamentoAlptransitSud_20170522.pdf)
 - [La terrazza sul lago](/files/La%20terrazza%20sul%20lago.pdf) Analisi dei
   potenziali della stazione FFS di Lugano. Sono indicate delle ipotesi
   interessanti per lo sviluppo della stazione FFS di Lugano, sia per gli aspetti
@@ -539,17 +539,17 @@ modo che le innovazioni siano recepite più velocemente.
 ## RailValley
 
 - [Presentazione di RailValley](/files/RailValley presentazione I
-  v%5F27gen11.pdf) Documento pdf con la presentazione di RailValley e dei vari
+  v_27gen11.pdf) Documento pdf con la presentazione di RailValley e dei vari
   progetti su cui si sta lavorando.
 
 ## Traffico merci
 
 - Documento strategico
-  [Per una ferrovia competitiva nel trasporto di merci sulle corte distanze.](/files/strategia%5Fcorte%5Fdistanze-13-08-2013.pdf)
+  [Per una ferrovia competitiva nel trasporto di merci sulle corte distanze.](/files/strategia_corte_distanze-13-08-2013.pdf)
 - Studio di massima
-  "[Trasferimento del trasporto merci sull'asse nord-sud con l'applicazione di componenti innovativi](/files/railvalley%5Fstudio%5Fnord%5Fsud%5F04052012.pdf)".
-  - [Lettera 27-7-2012 RailValley/Stisa alla direzione FFS](/files/railvalley%5Flettera%5FFFS%5Fdir%5FMayer.pdf)
-  - [Risposta 31-8-2012 CEO FFS Adreas Mayer ](/files/sbb%5Fbriefe%5Fmeyer%5F31-8-2012.pdf)([traduzione in italiano](/files/traduzione%5Fitaliano%5Flettera%5Fffs%5F31-8-2012.pdf))
+  "[Trasferimento del trasporto merci sull'asse nord-sud con l'applicazione di componenti innovativi](/files/railvalley_studio_nord_sud_04052012.pdf)".
+  - [Lettera 27-7-2012 RailValley/Stisa alla direzione FFS](/files/railvalley_lettera_FFS_dir_Mayer.pdf)
+  - [Risposta 31-8-2012 CEO FFS Adreas Mayer ](/files/sbb_briefe_meyer_31-8-2012.pdf)([traduzione in italiano](/files/traduzione_italiano_lettera_ffs_31-8-2012.pdf))
 - [Progetto di trasferimento S. Gottardo](/files/Progetto di trasferimento S.
   Gottardo.pdf) Documento pdf, che spiega il progetto per l'introduzione di
   treni pendolari merce sull'asse Nord/Sud.
@@ -568,25 +568,25 @@ modo che le innovazioni siano recepite più velocemente.
 - RailValley ha rivalutato la situazione della mobilità del Luganese in base ai
   diversi mutamenti e ha presentato delle brevi osservazioni sotto forma di
   brevi comunicati:
-  - [Dossier Tram-Treno del Luganese](/files/tram-treno/RailValley%5FDossierTramTreno%5F20170202.pdf)
+  - [Dossier Tram-Treno del Luganese](/files/tram-treno/RailValley_DossierTramTreno_20170202.pdf)
     analisi del progetto pubblicato dal Dipartimento del Territorio, con spunti
     di ottimizzazione. (2 febbraio 2018)
-  - [Osservazioni concernenti la consultazione pubblica sulle varianti PR intercomunale della Trincea ferroviaria di Massagno e del comparto della stazione FFS Lugano](/files/Consultazione-StazLug%5F20170522%5F0.pdf)
+  - [Osservazioni concernenti la consultazione pubblica sulle varianti PR intercomunale della Trincea ferroviaria di Massagno e del comparto della stazione FFS Lugano](/files/Consultazione-StazLug_20170522_0.pdf)
     (22 maggio 2017)
-  - [Comunicato: Alptransit completamento fino a Melide. ](/files/CompletamentoAlptransitSud%5F20170524.pdf)(22
+  - [Comunicato: Alptransit completamento fino a Melide. ](/files/CompletamentoAlptransitSud_20170524.pdf)(22
     maggio 2017)
-- [Consultazione PAL3](/files/consultazione%5Fpal3%5F06%5F01%5F2015.pdf) (6
+- [Consultazione PAL3](/files/tram-treno/consultazione_pal3_06_01_2015.pdf) (6
   gennaio 2016)
-- [Scheda riassuntiva per il PAL2](/files/scheda%5Fpal2%5F28%5F11%5F2014.pdf)
+- [Scheda riassuntiva per il PAL2](/files/scheda_pal2_28_11_2014.pdf)
   (28 novembre 2014).
-- [Sviluppo delle infrastrutture ferroviarie al Sud delle Alpi](/files/ferrovie%5Fsuddellealpi%5F24%5F03%5F2014.pdf)
-  (24 marzo 2014)[ ](/files/ferrovie%5Fsuddellealpi%5F31%5F01%5F2014.pdf) La
+- [Sviluppo delle infrastrutture ferroviarie al Sud delle Alpi](/files/ferrovie_suddellealpi_24_03_2014.pdf)
+  (24 marzo 2014)[ ](/files/ferrovie_suddellealpi_31_01_2014.pdf) La
   visione di RailValley per lo sviluppo delle infrastrutture ferroviarie al sud
   delle Alpi, con incluso un riepilogo delle diverse tratte in fase di
   realizzazione e quelle in studio.
 - [Raccordo ferroviario con il termovalorizzatore di Giubiasco](/files/OKKIO
   raccordo ferroviario.pdf) (settembre 2013)
-- [Proposta per un centro sportivo indoor Stazione FFS Lugano](/files/centro%5Fsportivo%5Findoor%5Fstazione.pdf)
+- [Proposta per un centro sportivo indoor Stazione FFS Lugano](/files/centro_sportivo_indoor_stazione.pdf)
   (agosto 2012).
 - [Presa di posizione sul PAL2 (Programma di sviluppo dell'agglomerato Luganese)](/blog/2012/10/14/55)
   (2012)
@@ -610,11 +610,11 @@ modo che le innovazioni siano recepite più velocemente.
   (22.11.2015)
   [Complemento d'informazione sul confronto Gottardo/Arlberg](/files/RailValley-Precisazioni-confronto-10-11-2015.pdf)
   (10.11.2015)
-- [Scheda: risanamento o adeguamento norme tunnel San Gottardo](/files/GottardoSchedaNorme%5F20150618.pdf)
+- [Scheda: risanamento o adeguamento norme tunnel San Gottardo](/files/GottardoSchedaNorme_20150618.pdf)
   (18.6.2015)
-- [Per un risanamento della galleria stradale del San Gottardo in linea con la strategia energetica 2050 del Consiglio federale](/files/RailValley-risanamento-gottardo-2050%5F06-03-2014.pdf)
+- [Per un risanamento della galleria stradale del San Gottardo in linea con la strategia energetica 2050 del Consiglio federale](/files/RailValley-risanamento-gottardo-2050_06-03-2014.pdf)
   (6.3.2014)
-- [Lettera alla Consigliera federale Leuthard](/files/lettera%5Fleuthard%5F13-3-2012.pdf)
+- [Lettera alla Consigliera federale Leuthard](/files/lettera_leuthard_13-3-2012.pdf)
   (13.2.2012) Il rinvio a dopo il 2035 del risanamento completo della galleria
   autostradale del San Gottardo è l'opzione che si impone se si considera il
   progresso tecnologico
@@ -626,22 +626,22 @@ modo che le innovazioni siano recepite più velocemente.
 - [Progetto di trasferimento S. Gottardo.pdf](/files/Progetto di trasferimento
   S. Gottardo.pdf)
 - [RailValley presentazione I v\_27gen11.pdf](/files/RailValley presentazione I
-  v%5F27gen11.pdf)
+  v_27gen11.pdf)
 - [La terrazza sul lago.pdf](/files/La terrazza sul lago.pdf)
-- [lettera_leuthard_13-3-2012.pdf](/files/lettera%5Fleuthard%5F13-3-2012.pdf)
+- [lettera_leuthard_13-3-2012.pdf](/files/lettera_leuthard_13-3-2012.pdf)
 - [Rete a scartamento ridotto.pdf](/files/Rete a scartamento ridotto.pdf)
-- [railvalley_studio_nord_sud_04052012.pdf](http://railvalley%5Fstudio%5Fnord%5Fsud%5F04052012.pdf)
-- [centro_sportivo_indoor_stazione.pdf](/files/centro%5Fsportivo%5Findoor%5Fstazione.pdf)
-- [railvalley_lettera_FFS_dir_Mayer.pdf](/files/railvalley%5Flettera%5FFFS%5Fdir%5FMayer.pdf)
-- [traduzione_italiano_lettera_ffs_31-8-2012.pdf](/files/traduzione%5Fitaliano%5Flettera%5Fffs%5F31-8-2012.pdf)
+- [railvalley_studio_nord_sud_04052012.pdf](http://railvalley_studio_nord_sud_04052012.pdf)
+- [centro_sportivo_indoor_stazione.pdf](/files/centro_sportivo_indoor_stazione.pdf)
+- [railvalley_lettera_FFS_dir_Mayer.pdf](/files/railvalley_lettera_FFS_dir_Mayer.pdf)
+- [traduzione_italiano_lettera_ffs_31-8-2012.pdf](/files/traduzione_italiano_lettera_ffs_31-8-2012.pdf)
 - [RailValley-risanamento galleria gottardo -
   questionario\_gennaio\_2013.doc](/files/RailValley-risanamento galleria
-  gottardo - questionario%5Fgennaio%5F2013.doc)
-- [strategia_corte_distanze-13-08-2013.pdf](/files/strategia%5Fcorte%5Fdistanze-13-08-2013.pdf)
+  gottardo - questionario_gennaio_2013.doc)
+- [strategia_corte_distanze-13-08-2013.pdf](/files/strategia_corte_distanze-13-08-2013.pdf)
 - [OKKIO raccordo ferroviario.pdf](/files/OKKIO raccordo ferroviario.pdf)
-- [RailValley-risanamento-gottardo-2050_06-03-2014.pdf](/files/RailValley-risanamento-gottardo-2050%5F06-03-2014.pdf)
-- [ferrovie_suddellealpi_24_03_2014.pdf](/files/ferrovie%5Fsuddellealpi%5F24%5F03%5F2014.pdf)
-- [scheda_pal2_28_11_2014.pdf](/files/scheda%5Fpal2%5F28%5F11%5F2014.pdf)
+- [RailValley-risanamento-gottardo-2050_06-03-2014.pdf](/files/RailValley-risanamento-gottardo-2050_06-03-2014.pdf)
+- [ferrovie_suddellealpi_24_03_2014.pdf](/files/ferrovie_suddellealpi_24_03_2014.pdf)
+- [scheda_pal2_28_11_2014.pdf](/files/scheda_pal2_28_11_2014.pdf)
 
 <hr />
 
