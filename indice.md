@@ -238,7 +238,7 @@ normale che di treni turistici, regionali e merci su scartamento ridotto.
     (19 giugno 2018)
   - [Audizione Commissione della Gestione](/blog/2018/05/30/105) (29
     maggio 2018)
-    [Dossier Tram-Treno del Luganese](/files/RailValley%5FDossierTramTreno%5F20170202.pdf)
+    [Dossier Tram-Treno del Luganese](/files/tram-treno/RailValley%5FDossierTramTreno%5F20170202.pdf)
     Analisi del progetto pubblicato dal Dipartimento del Territorio, con spunti
     di ottimizzazione. (2 febbraio 2018)
   - [Polo congressuale e turistico alla stazione di Lugano e assetto viario della stazione FFS. ](/files/Consultazione-StazLug%5F20170522%5F0.pdf)
@@ -568,7 +568,7 @@ modo che le innovazioni siano recepite più velocemente.
 - RailValley ha rivalutato la situazione della mobilità del Luganese in base ai
   diversi mutamenti e ha presentato delle brevi osservazioni sotto forma di
   brevi comunicati:
-  - [Dossier Tram-Treno del Luganese](/files/RailValley%5FDossierTramTreno%5F20170202.pdf)
+  - [Dossier Tram-Treno del Luganese](/files/tram-treno/RailValley%5FDossierTramTreno%5F20170202.pdf)
     analisi del progetto pubblicato dal Dipartimento del Territorio, con spunti
     di ottimizzazione. (2 febbraio 2018)
   - [Osservazioni concernenti la consultazione pubblica sulle varianti PR intercomunale della Trincea ferroviaria di Massagno e del comparto della stazione FFS Lugano](/files/Consultazione-StazLug%5F20170522%5F0.pdf)
