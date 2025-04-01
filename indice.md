@@ -293,7 +293,7 @@ normale che di treni turistici, regionali e merci su scartamento ridotto.
   diversi mutamenti e ha presentato delle brevi osservazioni sotto forma di
   brevi comunicati (22 maggio 2017)
   - [Osservazioni concernenti la consultazione pubblica sulle varianti PR intercomunale della Trincea ferroviaria di Massagno e del comparto della stazione FFS Lugano](/files/Consultazione-StazLug_20170522_0.pdf).
-  - [Comunicato: Mobilità del Vedeggio](/files/tram-treno/Comunicato_vedeggio_20170522_0.pdf).
+  - [Comunicato: Mobilità del Vedeggio](/files/tram-treno/Comunicato_vedeggio_20170522.pdf).
   - [Comunicato: Alptransit completamento fino a Melide.](/files/CompletamentoAlptransitSud_20170522.pdf)
 - [La terrazza sul lago](/files/La%20terrazza%20sul%20lago.pdf) Analisi dei
   potenziali della stazione FFS di Lugano. Sono indicate delle ipotesi
