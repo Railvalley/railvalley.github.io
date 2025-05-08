@@ -2,7 +2,7 @@
 layout: post
 title: "Tram-treno del Luganese e circonvallazione Bioggio: considerazioni dopo le risposte del Consiglio di Stato alle interpellanze"
 excerpt:
-  "L’ennesimo ritardo e aumento dei costi della tratta tram-treno Lugano–Manno non sorprende, ma preoccupa profondamente la nostra associazione"
+  "I problemi di governance nella gestione dei progetti di mobilità del Luganese sono ormai ampiamente confermati."
 date: 2025-05-07 09-30-00 +0100
 categories: blog
 lang: it
