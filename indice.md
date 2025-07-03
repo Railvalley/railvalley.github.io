@@ -563,7 +563,7 @@ modo che le innovazioni siano recepite più velocemente.
 
 ## Irfrastrutture ferroviarie al Sud delle Alpi
 
-- Tram-Treno [Audizione Commissione della Gestione](/blog/2018/05/30/105) (29
+- Tram-Treno Lugano-Vedeggio [Audizione Commissione della Gestione](/blog/2018/05/30/105) (29
   maggio 2018)
 - RailValley ha rivalutato la situazione della mobilità del Luganese in base ai
   diversi mutamenti e ha presentato delle brevi osservazioni sotto forma di

@@ -6,7 +6,7 @@ excerpt:
 date: 2025-06-10 09-30-00 +0100
 categories: blog
 lang: it
-author: Stefan
+author: Stefan Krebser
 ---
 
 # Chiusura terminale FFS Cargo e Tram-treno del Luganese

@@ -5,7 +5,7 @@ excerpt: "Il trasporto merci su rotaia consuma molta meno energia e presenta alt
 date: 2025-06-29 09-30-00 +0100
 categories: blog
 lang: it
-author: Stefan
+author: Stefan Krebser
 ---
 
 # FFS Cargo: quale futuro?
