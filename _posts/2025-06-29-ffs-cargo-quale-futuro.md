@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "FFS Cargo quale futuro?"
-excerpt:
-"Il trasporto merci su rotaia consuma molta meno energia e presenta altri vantaggi, per cui dovrebbe essere concorrenziale rispetto a quello su strada."
+excerpt: "Il trasporto merci su rotaia consuma molta meno energia e presenta altri vantaggi, per cui dovrebbe essere concorrenziale rispetto a quello su strada."
 date: 2025-06-29 09-30-00 +0100
 categories: blog
 lang: it
