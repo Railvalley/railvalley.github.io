@@ -158,4 +158,4 @@ Mobile: +41 79 240 49 58
 
 Conto corrente Postfinance: IBAN CH78 0900 0000 6515 8925 8
 
-E-mail contatto: stefankrebser@bluewin.ch
+E-mail contatto: railvalley@bluewin.ch
