@@ -2,7 +2,7 @@
 layout: post
 title: "Logistic Vision 2050"
 excerpt: "5 miliardi per recuperare il ritardo tecnologico nel settore del trasporto su rotaia e integrarlo nella logistica generale"
-date: 2025-08-20 00-00-00 +0100
+date: 2025-08-20 00-00-00 
 categories: blog
 lang: it
 hidden: false
