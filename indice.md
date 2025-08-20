@@ -10,6 +10,8 @@ Questa pagina raggruppa diverse informazioni sull'attività di RailValley che si
 
 # Attività effettuate
 
+**Aggiornamenti fino al 2011. [Oltre consultare il blog](/blog)**
+
 Qui di seguito un breve riassunto delle principali attività a favore
 dell'innovazione ferroviaria, promosse dall'associazione o dai suoi membri.
 
