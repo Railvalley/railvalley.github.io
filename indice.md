@@ -5,6 +5,203 @@ header: true
 permalink: indice
 ---
 
+Questa pagina raggruppa diverse informazioni sull'attività di RailValley che si trovavano prima su pagine diverse.   
+**Diverse sezioni sono state aggiornate.**
+
+# Attività effettuate
+
+Qui di seguito un breve riassunto delle principali attività a favore
+dell'innovazione ferroviaria, promosse dall'associazione o dai suoi membri.
+
+- 19.1.2008 Giornata di studio CARGO2050 a Mendrisio organizzata dai Verdi
+- 17.2.2008 Mozione dei Verdi « RailValley »: presso l' area Ex-Monteforno a
+  Bodio « Perché non un parco tecnologico per la mobilità su rotaia? »
+- 17.3.2008 Consegna del documento « Polo di innovazione e costruzione
+  ferroviaria in Ticino» alla Deputazione Ticinese alle camere feserali e al
+  comitato di sciopero da parte dei Verdi
+- 20.3.2008 Mozione della deputazione Ticinese « Conferma dell'ubicazione
+  Bellinzona quale polo ferroviario orientato sul futuro a sud delle Alpi »
+- 25.3.2008 Mozione urgente di Brenno Martignoni « Creazione di un polo
+  ferroviario alle Officine con partecipazioni pubbliche »
+- 1.4.2008 « Giù le mani dalle Officine: per la creazione di in polo
+  tecnologico-industriale nel settore del trasporto pubblico »
+- 1.4.2008 Mozione dei Verdi « RailValley - Officine Bellinzona: perché non un
+  centro di sviluppo per la mobilità su rotaia?»
+- 16.9.2008 Il Consiglio nazionale nell'ambito della legge sul trasferimento
+  pesante decide di investire 100mio. a favore di « soluzioni innovative nella
+  catena di trasferimento ».
+- 25.9.2009 Filippo Lombardi, Consiglio degli Stati PPD e Bastien Girod,
+  Consigliere nazionale Verdi inoltrano la mozione "Zukunftsfähiger
+  Schienengüterverkehr"
+- 27.10.2009 Giornata d'informazione presso il centro PostLogistics a Härkingen:
+  Innovazione nell'ambito del trasporto su rotaia
+- 12.05.2010 Fondazione Innovatrain: Società di sviluppo per concetti innovativi
+  in ambito ferroviario
+- 01.06.2010 Pubblicazione "La terrazza sul lago", Analisi dei potenziali della
+  stazione di Lugano
+- 27.10.2010 Presentazione del progetto di trasferimento sull'asse del S.
+  Gottardo all' ASTAG (Associazione svizzera dei trasporti stradali)
+- 10.11.2010 Presentazione del progetto di trasferimento sull'asse del S.
+  Gottardo all' ATIS (Associazione ticinese imprese di spedizione e logistica)
+- 21.01.2011 Incontro progettuale a Lugano: "Tram e treno per muoversi meglio"
+- 18.08.2011 Partecipazione workshop "mobilita" di swisscleantech
+- 26.09.2011 Pubblicazione del documento "Completamento e ripristino della rete
+  ferroviaria a scartamento ridotto nelle aree montane, negli agglomerati
+  ticinesi e nella Svizzera centrale
+- 13.03.2012 Lettera a Consigliera federale Doris Leuthard: Rinvio a dopo il
+  2035 del risanamento completo della galleria autostradale del S. Gottardo
+- Aprile 2012 Pubblicazione dello studio "Trasferimento del trasporto merci
+  sull'asse nord sud con l'applicazione di componenti innovative"
+
+<hr />
+
+# Il futuro su rotaia
+
+## Attualità
+
+- [Parallel SYSTEMS in Europa?](/blog/2022/01/29/109)
+- RailValley sostiene l'uso dei mezzi ferroviari in genere, ma anche
+  specificatamente per il trasporto pubblico di persone. A questo scopo cerca di
+  dare una visione d'insieme delle problematiche al Sud delle Alpi e nel
+  Luganese. Abbiamo presentato diversi documenti con lo scopo di migliorare la
+  rete dei trasporti pubblici.
+  - Tram-Treno:
+    [Proposta di aggiornare lo studio sul trasporto pubblico nel Vedeggio](/blog/2018/06/19/106)
+    (19 giugno 2018)
+  - [Audizione Commissione della Gestione](/blog/2018/05/30/105) (29
+    maggio 2018)
+    [Dossier Tram-Treno del Luganese](/files/tram-treno/RailValley_DossierTramTreno_20170202.pdf)
+    Analisi del progetto pubblicato dal Dipartimento del Territorio, con spunti
+    di ottimizzazione. (2 febbraio 2018)
+  - [Polo congressuale e turistico alla stazione di Lugano e assetto viario della stazione FFS. ](/files/Consultazione-StazLug_20170522_0.pdf)
+    Osservazioni presentati nell'ambito della consultazione sulle varianti PR
+    intercomunale della Trincea ferroviaria di Massagno e del comparto della
+    stazione FFS Lugano (22 maggio 2017)
+  - [Comunicato: Alptransit completamento fino a Melide.](/files/CompletamentoAlptransitSud_20170524.pdf)
+    RailValley sollecita la messa in cantiere della tratta Alptransit Vezia -
+    Melide (22 maggio 2017)
+- Documenti strategici
+  - [Sviluppo delle infrastrutture ferroviarie al Sud delle Alpi](/files/ferrovie_suddellealpi_24_03_2014.pdf)[ ](/files/ferrovie_suddellealpi_31_01_2014.pdf)(24.3.2014)
+    La visione di RailValley per lo sviluppo delle infrastrutture ferroviarie al
+    sud delle Alpi, con incluso un riepilogo delle diverse tratte in fase di
+    realizzazione e quelle in studio.
+  - Documento strategico
+    [Per una ferrovia competitiva nel trasporto di merci sulle corte distanze.](/files/strategia_corte_distanze-13-08-2013.pdf)(Agosto 2013)
+  - Strategiepapier:
+    [Konkurrenzfähiger Schienengütertransport auf Mittel-­‐ und Kurzstrecken](/files/strategie_kurzstrecken-10-10-2013.pdf)
+    (Oktober 2013)
+
+## RailValley
+
+- [Presentazione di RailValley](/files/RailValley%20presentazione%20I%20v_27gen11.pdf)
+  Documento pdf con la presentazione di RailValley e dei vari progetti su cui si
+  sta lavorando.
+
+# Collaborare e coordinare per pianificare e coordinare i cambiamenti
+
+L’evoluzione tecnologica, la liberalizzazione e la soppressione dei sussidi
+statali ha portato e porta a notevoli cambiamenti nel sistema dei trasporti
+ferroviari. Questa fase di cambiamenti porta con se squilibri, come la perdita
+di posti di lavoro, la soppressione di prestazioni e di offerte.
+
+Una parte dei disagi è dovuta al fatto che i diversi attori sono costretti a
+prendere decisioni senza potersi coordinare con gli altri.
+
+Nell’informatica, dove i cambiamenti sono costanti, si è dimostrato vincente il
+modello collaborativo. Fino a una decina di anni fa i diversi produttori
+operavano in modo distaccato, senza parlarsi. Oggi, tutti i grandi gruppi
+informatici, acerrimi concorrenti e con interessi contrastanti, collaborano
+intensamente a dei progetti comuni. Il cambiamento è stato reso possibile grazie
+alla creazione di organizzazioni indipendenti (associazioni, fondazioni) che
+garantiscono la gestione neutrale dei progetti.
+
+Le ditte, grazie a queste entità intermedie, possono interagire senza svelare
+segreti commerciali, contribuendo sia finanziariamente sia tecnologicamente,
+cioè facendo lavorare il proprio personale o mettendo a disposizione i frutti
+delle proprie ricerche. Unendo le forze riescono ad evolvere più velocemente e
+con costi più contenuti.
+
+Quello dei trasporti è un sistema formato da una molteplicità di ditte e
+componenti. L’introduzione di tecnologie in modo coordinato può portare vantaggi
+notevoli per tutti e per il sistema nel suo complesso. L’affrontare i problemi
+in modo collaborativo e da un punto di vista tecnico può permettere di risolvere
+molte tensioni che si creano sul mercato del lavoro. Si necessita però per
+questo di una struttura che sia neutrale e che metta a disposizione dei servizi
+di pianificazione e coordinamento.
+
+### RailValley propone
+
+RailValley si propone, come avviene nell’ambito informatico, di fungere da
+struttura neutrale che consente ai diversi attori del sistema dei trasporti
+(ditte, ente pubblico, sindacati, centri di ricerca, istituti di formazione,
+clienti, proprietari di infrastrutture e di materiale rotabile), che hanno
+interessi divergenti o sono concorrenti, di collaborare a studi, sviluppi, piani
+e progetti di interesse comune.
+
+<hr />
+
+
+# Estensione della rete ferroviaria a scartamento ridotto
+
+Dopo l’apertura della galleria del Monte Ceneri, tra Camorino e Vezia, si
+prospettano scenari e ragionamenti simili a quelli del Gottardo. Considerando la
+vicinanza dei due centri urbani di Lugano e di Bellinzona, si profila piuttosto
+un uso come linea tranviaria.
+
+Se si dovesse verificare la trasformazione con l’adattamento a scartamento
+ridotto del tracciato del S. Gottardo e del Monte Ceneri, mancherebbe poco alla
+realizzazione di una vera rete completa ticinese e montana a scartamento
+ridotto.
+
+Si tratterebbe parimenti di verificare i potenziali di:
+
+- nuovo tracciato a scartamento ridotto Biasca-Bellinzona-Giubiasco-Locarno per
+  un collegamento con la Centovallina
+- trasformazione della linea attuale del Monte Ceneri (Giubiasco-Taverne) in
+  linea a scartamento ridotto collegata con la ferrovia di Ponte Tresa-Lugano
+  (FLP), dopo l’apertura della galleria di base nel 2019 e con il futuro tram di
+  Lugano.
+- Recupero della linea del Moesano con possibile estensione in galleria verso la
+  Valtellina fino a Tirano
+- Nuovo tracciato Altdorf-Stans per collegarsi con la Zentralbahn
+  (Lucerna-Meiringen)
+- L’aggiunta nelle diverse tratte di ulteriori fermate (a richiesta come per il
+  tram).
+- L’ utilizzo di tutta la rete anche come mezzo di trasporto merci
+
+### RailValley propone:
+
+RailValley propone di approfondire, in collaborazione con le varie ferrovie,
+Cantoni, uffici dei trasporti, operatori turistici e della logistica i vari
+scenari ed effetti di un’estenzione della rete a scartamento ridotto e
+soprattutto l’indotto sulle economie locali.
+
+<hr />
+
+# Mantenimento dell’attuale ferrovia del Gottardo
+
+Con la messa in opera di Alptransit, il mantenimento della linea attuale della
+Gotthardbahn, con i suoi costi di manutenzione cospicui, si parla di 50 milioni
+annui, sarà difficilmente giustificabile con il traffico di transito o regionale
+restante. Se non verrà trovato un nuovo modo d’utilizzo, il futuro di questa
+tratta sarà molto incerto. Una delle possibilità può essere l’inserimento tra
+Biasca ed Altdorf di un binario a scartamento ridotto di 1.00m (vedi RhB tra
+Coira e Felsberg, foto sotto). Si aprirebbero scenari interessanti, perché
+queste stazioni verrebbero così collegate con rinomati luoghi turistici come St.
+Moritz, Zermatt ed altri, cambiando al massimo un’unica volta treno. L’esempio
+del GlacierExpress ci mostra che nell’ambito del turismo ci sarebbero delle
+prospettive interessanti per Ticino ed Uri.
+
+### RailValley propone
+
+RailValley intende avviare un progetto volto ad approfondire il tema
+dell’utilizzazione della tratta della linea del Gottardo dopo l’apertura di
+Alptransit. Si propone di approfondire i vari scenari con l’utilizzo sia di
+treni merci di transito, passeggeri regionali e nostalgici su scartamento
+normale che di treni turistici, regionali e merci su scartamento ridotto.
+
+<hr />
+
 # Affidabilità al Gottardo
 
 **Progetto per migliorare l’affidabilità dei trasporti sull’asse del S.
@@ -66,204 +263,7 @@ Settembre 2009 - Mozione "Zukunftsfähiger Schienengüterverkehr"
 
 <hr />
 
-# Attività effettuate
 
-Qui di seguito un breve riassunto delle principali attività a favore
-dell'innovazione ferroviaria, promosse dall'associazione o dai suoi membri.
-
-- 19.1.2008 Giornata di studio CARGO2050 a Mendrisio organizzata dai Verdi
-- 17.2.2008 Mozione dei Verdi « RailValley »: presso l' area Ex-Monteforno a
-  Bodio « Perché non un parco tecnologico per la mobilità su rotaia? »
-- 17.3.2008 Consegna del documento « Polo di innovazione e costruzione
-  ferroviaria in Ticino» alla Deputazione Ticinese alle camere feserali e al
-  comitato di sciopero da parte dei Verdi
-- 20.3.2008 Mozione della deputazione Ticinese « Conferma dell'ubicazione
-  Bellinzona quale polo ferroviario orientato sul futuro a sud delle Alpi »
-- 25.3.2008 Mozione urgente di Brenno Martignoni « Creazione di un polo
-  ferroviario alle Officine con partecipazioni pubbliche »
-- 1.4.2008 « Giù le mani dalle Officine: per la creazione di in polo
-  tecnologico-industriale nel settore del trasporto pubblico »
-- 1.4.2008 Mozione dei Verdi « RailValley - Officine Bellinzona: perché non un
-  centro di sviluppo per la mobilità su rotaia?»
-- 16.9.2008 Il Consiglio nazionale nell'ambito della legge sul trasferimento
-  pesante decide di investire 100mio. a favore di « soluzioni innovative nella
-  catena di trasferimento ».
-- 25.9.2009 Filippo Lombardi, Consiglio degli Stati PPD e Bastien Girod,
-  Consigliere nazionale Verdi inoltrano la mozione "Zukunftsfähiger
-  Schienengüterverkehr"
-- 27.10.2009 Giornata d'informazione presso il centro PostLogistics a Härkingen:
-  Innovazione nell'ambito del trasporto su rotaia
-- 12.05.2010 Fondazione Innovatrain: Società di sviluppo per concetti innovativi
-  in ambito ferroviario
-- 01.06.2010 Pubblicazione "La terrazza sul lago", Analisi dei potenziali della
-  stazione di Lugano
-- 27.10.2010 Presentazione del progetto di trasferimento sull'asse del S.
-  Gottardo all' ASTAG (Associazione svizzera dei trasporti stradali)
-- 10.11.2010 Presentazione del progetto di trasferimento sull'asse del S.
-  Gottardo all' ATIS (Associazione ticinese imprese di spedizione e logistica)
-- 21.01.2011 Incontro progettuale a Lugano: "Tram e treno per muoversi meglio"
-- 18.08.2011 Partecipazione workshop "mobilita" di swisscleantech
-- 26.09.2011 Pubblicazione del documento "Completamento e ripristino della rete
-  ferroviaria a scartamento ridotto nelle aree montane, negli agglomerati
-  ticinesi e nella Svizzera centrale
-- 13.03.2012 Lettera a Consigliera federale Doris Leuthard: Rinvio a dopo il
-  2035 del risanamento completo della galleria autostradale del S. Gottardo
-- Aprile 2012 Pubblicazione dello studio "Trasferimento del trasporto merci
-  sull'asse nord sud con l'applicazione di componenti innovative"
-
-<hr />
-
-# Collaborare e coordinare
-
-**Collaborare per pianificare e coordinare i cambiamenti**
-
-L’evoluzione tecnologica, la liberalizzazione e la soppressione dei sussidi
-statali ha portato e porta a notevoli cambiamenti nel sistema dei trasporti
-ferroviari. Questa fase di cambiamenti porta con se squilibri, come la perdita
-di posti di lavoro, la soppressione di prestazioni e di offerte.
-
-Una parte dei disagi è dovuta al fatto che i diversi attori sono costretti a
-prendere decisioni senza potersi coordinare con gli altri.
-
-Nell’informatica, dove i cambiamenti sono costanti, si è dimostrato vincente il
-modello collaborativo. Fino a una decina di anni fa i diversi produttori
-operavano in modo distaccato, senza parlarsi. Oggi, tutti i grandi gruppi
-informatici, acerrimi concorrenti e con interessi contrastanti, collaborano
-intensamente a dei progetti comuni. Il cambiamento è stato reso possibile grazie
-alla creazione di organizzazioni indipendenti (associazioni, fondazioni) che
-garantiscono la gestione neutrale dei progetti.
-
-Le ditte, grazie a queste entità intermedie, possono interagire senza svelare
-segreti commerciali, contribuendo sia finanziariamente sia tecnologicamente,
-cioè facendo lavorare il proprio personale o mettendo a disposizione i frutti
-delle proprie ricerche. Unendo le forze riescono ad evolvere più velocemente e
-con costi più contenuti.
-
-Quello dei trasporti è un sistema formato da una molteplicità di ditte e
-componenti. L’introduzione di tecnologie in modo coordinato può portare vantaggi
-notevoli per tutti e per il sistema nel suo complesso. L’affrontare i problemi
-in modo collaborativo e da un punto di vista tecnico può permettere di risolvere
-molte tensioni che si creano sul mercato del lavoro. Si necessita però per
-questo di una struttura che sia neutrale e che metta a disposizione dei servizi
-di pianificazione e coordinamento.
-
-**RailValley propone:**
-
-RailValley si propone, come avviene nell’ambito informatico, di fungere da
-struttura neutrale che consente ai diversi attori del sistema dei trasporti
-(ditte, ente pubblico, sindacati, centri di ricerca, istituti di formazione,
-clienti, proprietari di infrastrutture e di materiale rotabile), che hanno
-interessi divergenti o sono concorrenti, di collaborare a studi, sviluppi, piani
-e progetti di interesse comune.
-
-<hr />
-
-# Estensione dello scartamento ridotto
-
-**Estensione della rete ferroviaria a scartamento ridotto**
-
-Dopo l’apertura della galleria del Monte Ceneri, tra Camorino e Vezia, si
-prospettano scenari e ragionamenti simili a quelli del Gottardo. Considerando la
-vicinanza dei due centri urbani di Lugano e di Bellinzona, si profila piuttosto
-un uso come linea tranviaria.
-
-Se si dovesse verificare la trasformazione con l’adattamento a scartamento
-ridotto del tracciato del S. Gottardo e del Monte Ceneri, mancherebbe poco alla
-realizzazione di una vera rete completa ticinese e montana a scartamento
-ridotto.
-
-Si tratterebbe parimenti di verificare i potenziali di:
-
-- nuovo tracciato a scartamento ridotto Biasca-Bellinzona-Giubiasco-Locarno per
-  un collegamento con la Centovallina
-- trasformazione della linea attuale del Monte Ceneri (Giubiasco-Taverne) in
-  linea a scartamento ridotto collegata con la ferrovia di Ponte Tresa-Lugano
-  (FLP), dopo l’apertura della galleria di base nel 2019 e con il futuro tram di
-  Lugano.
-- Recupero della linea del Moesano con possibile estensione in galleria verso la
-  Valtellina fino a Tirano
-- Nuovo tracciato Altdorf-Stans per collegarsi con la Zentralbahn
-  (Lucerna-Meiringen)
-- L’aggiunta nelle diverse tratte di ulteriori fermate (a richiesta come per il
-  tram).
-- L’ utilizzo di tutta la rete anche come mezzo di trasporto merci
-
-**RailValley propone:**
-
-RailValley propone di approfondire, in collaborazione con le varie ferrovie,
-Cantoni, uffici dei trasporti, operatori turistici e della logistica i vari
-scenari ed effetti di un’estenzione della rete a scartamento ridotto e
-soprattutto l’indotto sulle economie locali.
-
-<hr />
-
-# Ferrovia del Gottardo
-
-**Mantenimento dell’attuale ferrovia del Gottardo**
-
-Con la messa in opera di Alptransit, il mantenimento della linea attuale della
-Gotthardbahn, con i suoi costi di manutenzione cospicui, si parla di 50 milioni
-annui, sarà difficilmente giustificabile con il traffico di transito o regionale
-restante. Se non verrà trovato un nuovo modo d’utilizzo, il futuro di questa
-tratta sarà molto incerto. Una delle possibilità può essere l’inserimento tra
-Biasca ed Altdorf di un binario a scartamento ridotto di 1.00m (vedi RhB tra
-Coira e Felsberg, foto sotto). Si aprirebbero scenari interessanti, perché
-queste stazioni verrebbero così collegate con rinomati luoghi turistici come St.
-Moritz, Zermatt ed altri, cambiando al massimo un’unica volta treno. L’esempio
-del GlacierExpress ci mostra che nell’ambito del turismo ci sarebbero delle
-prospettive interessanti per Ticino ed Uri.
-
-**RailValley propone:**
-
-RailValley intende avviare un progetto volto ad approfondire il tema
-dell’utilizzazione della tratta della linea del Gottardo dopo l’apertura di
-Alptransit. Si propone di approfondire i vari scenari con l’utilizzo sia di
-treni merci di transito, passeggeri regionali e nostalgici su scartamento
-normale che di treni turistici, regionali e merci su scartamento ridotto.
-
-<hr />
-
-# Il futuro su rotaia
-
-## Attualità
-
-- [Parallel SYSTEMS in Europa?](/blog/2022/01/29/109)
-- RailValley sostiene l'uso dei mezzi ferroviari in genere, ma anche
-  specificatamente per il trasporto pubblico di persone. A questo scopo cerca di
-  dare una visione d'insieme delle problematiche al Sud delle Alpi e nel
-  Luganese. Abbiamo presentato diversi documenti con lo scopo di migliorare la
-  rete dei trasporti pubblici.
-  - Tram-Treno:
-    [Proposta di aggiornare lo studio sul trasporto pubblico nel Vedeggio](/blog/2018/06/19/106)
-    (19 giugno 2018)
-  - [Audizione Commissione della Gestione](/blog/2018/05/30/105) (29
-    maggio 2018)
-    [Dossier Tram-Treno del Luganese](/files/tram-treno/RailValley_DossierTramTreno_20170202.pdf)
-    Analisi del progetto pubblicato dal Dipartimento del Territorio, con spunti
-    di ottimizzazione. (2 febbraio 2018)
-  - [Polo congressuale e turistico alla stazione di Lugano e assetto viario della stazione FFS. ](/files/Consultazione-StazLug_20170522_0.pdf)
-    Osservazioni presentati nell'ambito della consultazione sulle varianti PR
-    intercomunale della Trincea ferroviaria di Massagno e del comparto della
-    stazione FFS Lugano (22 maggio 2017)
-  - [Comunicato: Alptransit completamento fino a Melide.](/files/CompletamentoAlptransitSud_20170524.pdf)
-    RailValley sollecita la messa in cantiere della tratta Alptransit Vezia -
-    Melide (22 maggio 2017)
-- Documenti strategici
-  - [Sviluppo delle infrastrutture ferroviarie al Sud delle Alpi](/files/ferrovie_suddellealpi_24_03_2014.pdf)[ ](/files/ferrovie_suddellealpi_31_01_2014.pdf)(24.3.2014)
-    La visione di RailValley per lo sviluppo delle infrastrutture ferroviarie al
-    sud delle Alpi, con incluso un riepilogo delle diverse tratte in fase di
-    realizzazione e quelle in studio.
-  - Documento strategico
-    [Per una ferrovia competitiva nel trasporto di merci sulle corte distanze.](/files/strategia_corte_distanze-13-08-2013.pdf)(Agosto 2013)
-  - Strategiepapier:
-    [Konkurrenzfähiger Schienengütertransport auf Mittel-­‐ und Kurzstrecken](/files/strategie_kurzstrecken-10-10-2013.pdf)
-    (Oktober 2013)
-
-## RailValley
-
-- [Presentazione di RailValley](/files/RailValley%20presentazione%20I%20v_27gen11.pdf)
-  Documento pdf con la presentazione di RailValley e dei vari progetti su cui si
-  sta lavorando.
 
 ## Trasporto di merci
 

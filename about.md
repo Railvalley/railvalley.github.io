@@ -28,7 +28,7 @@ dimenticata, soprattutto nel campo del trasporto merci su ferrovia. Railvalley
 promuove rimedi efficienti a questa situazione di stallo, basandosi su
 technologie innovative ed ecologiche.
 
-[Documento pdf con la presentazione di RailValley e dei principali progetti](/files/RailValley%20presentazione%20I%20v_27gen11.pdf).
+[Documento pdf con la presentazione di RailValley e dei principali progetti](/files/RailValley%20presentazione%20I%20v_27gen11.pdf) del 2011.
 
 <hr />
 
