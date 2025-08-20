@@ -6,7 +6,7 @@ permalink: indice
 ---
 
 Questa pagina raggruppa diverse informazioni sull'attività di RailValley che si trovavano prima su pagine diverse.   
-**Diverse sezioni sono state aggiornate.**
+**Diverse sezioni non sono state però aggiornate.**
 
 # Attività effettuate
 
